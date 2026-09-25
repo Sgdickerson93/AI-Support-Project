@@ -1,5 +1,7 @@
 # AI-Support-Project
 
+## Python Explanations
+
 * def = tells Python you're defining a function
 * triage_case = the name of the function
 * description = a parameter
